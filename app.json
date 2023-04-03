@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f317a313-624d-4ca5-a765-f407388fe5f3"
+      }
+    },
+    "owner": "sillwaada19"
   }
 }

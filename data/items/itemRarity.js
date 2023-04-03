@@ -1,0 +1,7 @@
+export const RARITY = {
+  COMMON: "COMMON",
+  UNCOMMON: "UNCOMMON",
+  RARE: "RARE",
+  UNIQUE: "UNIQUE",
+  LEGENDARY: "LEGENDARY",
+};
